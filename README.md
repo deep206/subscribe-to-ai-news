@@ -1,10 +1,10 @@
 # Subscribe to AI Newsletter!
 
-An intelligent, automated news aggregation and summarization system that delivers personalized news digests to your inbox every Sunday at 7am ET,. Powered by cutting-edge AI, this assistant scours the web for the latest developments in your chosen topics, distills the information into concise, insightful summaries, and delivers them weekly to keep you informed without the noise.
+An intelligent, automated news aggregation and summarization system that delivers personalized news digests to your inbox every Saturday at 7am ET,. Powered by cutting-edge AI, this assistant scours the web for the latest developments in your chosen topics, distills the information into concise, insightful summaries, and delivers them weekly to keep you informed without the noise.
 
 ## [Live Demo Available Here](https://subscribeainews.web.app)
 
-#### Please note that this is a research project so I have throttled maximum users due to cost constraints. [Please email me directly](mailto:deep@currently.com) if you are interested in contributing or supporting me. Thank you!
+#### Please note that this is a research project so I have throttled maximum users due to cost constraints. Thank you!
 
 ## Local Development
 
